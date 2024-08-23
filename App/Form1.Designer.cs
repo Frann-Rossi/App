@@ -90,7 +90,7 @@
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(325, 350);
+            this.btnCancelar.Location = new System.Drawing.Point(522, 350);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(141, 48);
             this.btnCancelar.TabIndex = 6;
@@ -139,9 +139,9 @@
             this.lblResultado.AutoSize = true;
             this.lblResultado.Location = new System.Drawing.Point(581, 68);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(82, 20);
+            this.lblResultado.Size = new System.Drawing.Size(90, 20);
             this.lblResultado.TabIndex = 11;
-            this.lblResultado.Text = "Resultado";
+            this.lblResultado.Text = "Resultados";
             // 
             // Form1
             // 
@@ -161,7 +161,7 @@
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.btnAceptar);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Datos Personas";
             this.ResumeLayout(false);
             this.PerformLayout();
 
